@@ -1,0 +1,204 @@
+.hero { 
+	background-image: url("../images/bg.svg"),linear-gradient(45deg,#0c206d,0%,#0c206d 100%);
+}
+.mb-3 {
+	color: white;
+}
+.lead {
+	color: white;
+}
+.bitcity {
+	background-color: #03b784;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-bottom: 50px;
+}
+.bitcity h2 {
+ color: white;
+}
+.bitcity p {
+	color: white;
+}
+.bitcity .btn {
+	outline-color: white;
+}
+.box img {
+	float: right;
+}
+.bitcity img {
+	background-color: white;
+	border-radius: 10px;
+	width: 300px;
+	height: 150px;
+}
+.btn-primary {
+    color: #f9fafb;
+    border-color: #f9fafb;
+}
+.ourservices {
+	padding-top: 50px;
+}
+.ourservices img {
+	height: 200px;
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ourservices .card-title {
+	font-size: 25px;
+}
+.b1   {
+	border-left: 4px;
+	padding-left: 27px;
+	border-left-color: #2dc9ff;
+	border-left-style: solid;
+
+}
+.serve img {
+	width: 350px;
+	height: 350px;
+}
+.stats h1 {
+	font-size: 55px;
+}
+.stats img {
+	padding-top: 80px;
+	height: 650px;
+	width: 400px;
+	margin-left: 20px;
+}
+.stats .card-body {
+	padding: 30%;
+	
+}
+.stats .card {
+	margin-top: 35px;
+}
+.footer {
+	background-color: #f6f6f6;
+	margin-top: 60px;
+	padding-top: 50px;
+	color: black;
+	font-size: 20px;
+	padding-bottom: 50px;
+}
+.footer a {
+	color: black;
+	text-decoration: none;
+
+}
+.links {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.copyright {
+	padding-top: auto;
+	padding-left: auto;
+	text-align: center;
+	margin-top: 40px;
+}
+.herocontact img {
+	width: 100%;
+}
+.contactform h1{
+	font-size: 50px;
+}
+.card-body2 {
+	border-top: #00a8ff solid 6px;
+
+}
+.home {
+	background-color: #0c206d;
+	color: white;
+}
+.home a {
+	color: white;
+}
+.home span {
+	color: white;
+}
+textarea {
+	height: 300px;
+}
+.nav-link {
+	color: white;
+}
+.homeS header {
+	background-color: #0c206d;
+}
+.homeS ul {
+	color: white;
+}
+.homeC header {
+	background-color: #0c206d;
+}
+span {
+	color: white;
+}
+.services h1 {
+	padding-top: 60px;
+	color: white;
+}
+.services {
+	background-image: url("../images/bg.svg"),linear-gradient(45deg,#0c206d,0%,#0c206d 100%);
+}
+.services p {
+	color: white;
+}
+.services img {
+	width: 350px;
+}
+.services button {
+	background-color: #00a8ff;
+	color: white;
+	width: 250px;
+	height: 70px;
+}
+.whychooseus img {
+	width: 60px;
+	height: 60px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.whychooseus h1 {
+	padding-top: 30px;
+	padding-left: 30px;
+	color: darkblue;
+}
+.whychooseus h6 {
+	padding-left: 30px;
+}
+.homeA header {
+	background-color: #0c206d;
+}
+.aboutus button {
+	background-color: #00a8ff;
+	width: 300px;
+	height: 80px;
+}
+.aboutus h1 {
+	padding-top: 100px;
+}
+.aboutus img {
+	padding-left: 20px;
+	width: 350px;
+	height: 400px;
+	padding-top: 10px;
+}
+.aboutus {
+	background-image: url("../images/bg.svg"),linear-gradient(45deg,#0c206d,0%,#0c206d 100%);
+	color: white;
+}
+.ab2 img {
+	width: 150px;
+	height: 150px;
+	margin-left: 120px;
+}
+.ab2 h3 {
+	text-align: center;
+}
+.ab2 p {
+	text-align: center;
+}
+
